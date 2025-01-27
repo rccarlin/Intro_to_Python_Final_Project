@@ -1,4 +1,4 @@
-# Riley Carlin, rcarlin@usc.edu
+# Riley Carlin
 # ITP 116, 10:00-10:50 a.m.
 # Final Project
 # Description:

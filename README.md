@@ -34,13 +34,13 @@ length, color, venomousness for both the entire set of snakes and for the filter
 ## Input and Commands
 - The program will begin by asking the user for an input file of snakes and snake 
 information. One line per snake. The lines should be formatted as follows:
-  – Name|average length in meters|isVenomous|color,color,color…
-  – Ex: Ball python|1.13|0|brown
-  – Ex: Eastern Coral Snake|.8|1|red,black,yellow
+  - Name|average length in meters|isVenomous|color,color,color…
+  - Ex: Ball python|1.13|0|brown
+  - Ex: Eastern Coral Snake|.8|1|red,black,yellow
 - The user is then offered the option to search a snake by name, filter snakes by 
 characteristics, view statistics about all the snakes, or exit the program (make sure to 
 verify the user inputted a valid request).
-– Search: prompt the user to enter a snake name, either print out the 
+- Search: prompt the user to enter a snake name, either print out the 
 characteristics of the snake or alert the user that the program does not have 
 information on that snake. If the snake does exist, the program will ask the 
 user if they would like to see pictures of the snake and if they would like 
@@ -48,7 +48,7 @@ additional reading on the snake. Agreeing to the pictures will open up a
 new browser tab on the Google image search results for that snake. 
 Agreeing to the additional reading will return five links a Google search 
 on the snake would return.
-– Filter: Take user to secondary menu that allows them to filter by any of the 
+- Filter: Take user to secondary menu that allows them to filter by any of the 
 characteristics. Current session continues until user selects Back (that means 
 the user can continue filtering after printing results). Make sure user inputs 
 valid commands and answers.
@@ -68,7 +68,7 @@ graphs using only the remaining snakes
 have been left after each filter command (name, length, 
 venomousness, color)
   - Back: takes user back to main menu
-– Stats: Take user to secondary (or possibly tertiary, if coming from the filter 
+- Stats: Take user to secondary (or possibly tertiary, if coming from the filter 
 menu) menu that allows them to select what characteristics they would like to 
 see in graph form. Will prompt the user for which graph they want (and 
 provide the graph) until the user selects Back. As always, verify that the user 

@@ -1,5 +1,5 @@
 # Intro to Python Final Project
-Note: this code was originally written in Fall 2021 semester, and this README is a modified version of my submitted project description.
+Note: this code was originally written in the Fall 2021 semester, and this README is a modified version of my submitted project description.
 
 ## Goals
 - Utilize arithmetic operators

@@ -1,0 +1,41 @@
+Brahminy Blind Snake|.07|0|grey,yellow,beige,purple
+Southern Copperhead|.71|1|red,copper,brown,tan
+Western Cottonmouth|.91|1|brown,grey,black
+Timber Rattlesnake|1.13|1|grey,yellow,black,white
+Western Diamondback Rattlesnake|1.06|1|tan,brown,black,white
+Western Pygmy Rattlesnake|.45|1|grey,copper,red,black
+Desert Massasauga|.61|1|grey,tan,brown
+Texas Coral Snake|.64|1|black,red,yellow
+Texas Glossy Snake|.91|0|cream,tan,brown
+Northern Scarlet Snake|.43|0|grey,white,red,black
+Buttermilk Racer|1.52|0|white,yellow,black,green,grey,blue
+Yellowbelly Racer|1.5|0|grey,green,yellow,tan,cream,brown
+Tan Racer|1.13|0|tan,brown
+Eastern Coachwhip|1.28|0|black,red,yellow,tan,pink
+Mississippi Ringneck Snake|.31|1|cream,olive,grey,orange,yellow
+Western Mud Snake|1.20|0|black,salmon,orange
+Rough Earth Snake|.21|0|brown,grey,red,tan
+Eastern Hognose Snake|.71|0|red,green,orange,brown,grey,black
+Prairie Kingsnake|.84|0|tan,grey,brown
+Western Milksnake|.55|0|red,black,yellow
+Speckled Kingsnake|1.20|0|black,yellow
+Gulf Swampsnake|.48|0|olive,brown,yellow
+Gulf Salt Marsh Snake|.57|0|grey,black,tan,red,brown
+Mississippi Green Water Snake|.95|0|olive,brown,grey,yellow
+Plain-Bellied Water Snake|.99|0|brown,grey,yellow,red,green
+Broad-Banded Water Snake|.81|0|brown,yellow,cream
+Diamondback Water Snake|.99|0|brown,olive,black,yellow
+Rough Green Snake|.69|0|green,yellow,cream
+Smooth Green Snake|.44|0|green,yellow,white
+this|should|be ignored
+this one too|snake|snake|snake
+Western Rat Snake|1.45|0|brown,grey,black
+Slowinski's Corn Snake|1.22|0|brown,grey,black,white
+Louisiana Pine Snake|1.37|0|yellow,brown
+Graham's Crayfish Snake|.59|0|olive,black,yellow
+DeKay's Brown Snake|.27|0|tan,red,brown,yellow,pink,black
+Florida Redbelly Snake|.23|0|red,orange,yellow,brown,white
+Flathead Snake|.19|0|tan,brown,red,pink
+Gulf Coast Ribbon Snake|.64|0|black,yellow,blue
+Eastern Garter Snake|.56|1|green,brown,black,yellow,white
+Smooth Earth Snake|.22|0|brown,grey,pink,black,white

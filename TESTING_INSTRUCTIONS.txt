@@ -1,0 +1,15 @@
+Howdy!
+
+To run my project, make sure you have installed (e.g., pip install google in terminal):
+1. matplotlib
+2. Colour
+3. beautifulsoup4
+4. google
+
+The first two are for the graphs and the second two are for the search function.
+
+There are four tests (with their expected outputs) written in the Sample Output section of the Project Description.
+I tried to make sure every feature was tested at least twice; if four tests are too much, I suggest the second and
+third test since they test the most.
+
+Notes to the user (i.e., things written in Sample Output but are not inputs or outputs) are denoted by *** and italics!
